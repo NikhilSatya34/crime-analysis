@@ -33,3 +33,7 @@ This project analyzes historical crime data to identify patterns and predict tre
 ## 📎 Conclusion
 
 This project demonstrates how machine learning can be used for real-world data analysis and prediction.
+
+## 👨‍💻 Author
+
+Developed by Nikhil Satya during diploma training under the guidance of Laxmi Madam (Vision Computers).
